@@ -1,4 +1,4 @@
-# web-site-license
+# web-site-license (think HAM radio , drone license laws)
 
 * similar to domain registar to register a domain name
 
